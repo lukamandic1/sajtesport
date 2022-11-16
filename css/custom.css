@@ -3,3 +3,6 @@
 -------------------------------------------------------------------*/
 
 /** ADD YOUR AWESOME CODES HERE **/
+html, body {
+scroll-behavior: smooth;
+}
